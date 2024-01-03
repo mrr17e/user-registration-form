@@ -1,6 +1,7 @@
 # User Registration Form
 
 This repository contains a simple user registration form built using HTML, CSS, Node.js, and MongoDB. Users can register by providing a username, email, and password, and their information is stored in a MongoDB database.
+![Screenshot (225)](https://github.com/mrr17e/user-registration-form/assets/109306090/c7eea033-948a-4201-a702-9242b5853d2d)
 
 ## Features
 
